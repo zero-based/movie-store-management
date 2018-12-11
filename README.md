@@ -9,7 +9,7 @@ In alphabetical order:
 | Name             | Account                                                      |
 | ---------------- | ------------------------------------------------------------ |
 | Michael Safwat   | -                                                            |
-| Micheline Medhat | -                                                            |
+| Micheline Medhat | [@MichelineMedhat](https://github.com.MichelineMedhat)       |
 | Mina Ossama      | -                                                            |
 | Monica Adel      |[@MonicaTanios](https://github.com/MonicaTanios)              |
 | Monica Atef      | -                                                            |
