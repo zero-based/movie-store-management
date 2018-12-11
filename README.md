@@ -11,7 +11,7 @@ In alphabetical order:
 | Michael Safwat   | -                                                            |
 | Micheline Medhat | -                                                            |
 | Mina Ossama      | -                                                            |
-| Monica Adel      | -                                                            |
+| Monica Adel      |[@MonicaTanios](https://github.com/MonicaTanios)              |
 | Monica Atef      | -                                                            |
 | Youssef Raafat   | -                                                            |
 
